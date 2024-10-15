@@ -3,9 +3,8 @@ import { Button } from "@/components/ui/button";
 export default function Home() {
   return (
     <div>
-      
       <Button>
-      Siemaneczko mordeczko
+      Switching themes
       </Button>
       </div>
   );
